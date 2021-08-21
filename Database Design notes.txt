@@ -1,0 +1,106 @@
+* Understanding the Data *
+
+From looking at the data "Locations.csv" is the most important data to start with. Why? this is our glue keeping it altogether (Primary Key)
+
+[locations.csv]
+
+--> [Table] Locations
+	- iso_code [PK] (ISO 3166-1 alpha-3 – three-letter country codes)
+	- location (name of the country (or region within a country))
+
+--> [Table] LocationVaccinces
+	- iso_code 
+	- vaccine_id (vaccine administered in the country up to the current date)
+	- date_avaliable (When did the country first use this vaccine
+	- date_unavliable (when did this become unavliable to the country)
+	- data_source (unique id of the data source listed in Table --> DataSource) (Data source used for this country)
+	
+	select * from Vaccines where iso_code="AUS"  will return a row for each vaccine used in australia
+	
+--> Vaccines
+	- vaccine_id
+	- vaccine
+	
+--> [Table] DataSource
+	- source_id (unique, auto-incremented)
+	- iso_code
+	- source_name
+	- source_website
+	- last_observation
+	
+[vaccinations.csv]
+All tables using "location" to link counties data will be replaced with "iso_code" select iso_code from Locations where location=<location>)
+* in this case we are simply ignoring the location column during import
+
+--> [Table] CountryVaccinations
+	- iso_code 
+	- date
+	- total_vaccinations
+	- people_vaccinated
+	- people_fully_vaccinated
+	- daily_vaccinations_raw
+	- daily_vaccinations
+	- total_vaccinations_per_hundred
+	- people_vaccinated_per_hundred
+	- people_fully_vaccinated_per_hundred
+	- daily_vaccinations_per_million
+
+[vaccinations-by-age-group.csv]
+* Use "location" column to find "iso_code" drop "location" column
+* So we dont need to store as much data lets put the age groups into another table and simply reference them.
+
+--> AgeGroups
+	- age_group_id
+	- group
+	
+	[DATA] 18-24, 25-49, 50-59,	60-69, 70-79, 80+
+
+--> AgeGroupVaccinations
+	- iso_code
+	- date
+	- age_group_id
+	- people_vaccinated_perhundred
+	- people_fully_vaccinated_per_hundred
+	
+[vaccinations-by-manufacturer.csv]
+* Use "location" column to find "iso_code" drop "location" column
+
+--> CountryVaccByManufacturer
+	- iso_code
+	- date
+	- vaccine_id
+	- total_vaccinations
+
+[us_state_vaccinations.csv]
+* location remains as this is a the state
+* add iso_code for future use maybe we will have australian states?
+
+--> CountryStateDailyTotals
+	- iso_code
+	- location
+	- date
+	- total_vaccinations
+	- total_distributed
+	- people_vaccinated	
+	- people_fully_vaccinated_per_hundred
+	- total_vaccinations_per_hundred 
+	- people_fully_vaccinated
+	- people_vaccinated_per_hundred
+	- distributed_per_hundred
+	- daily_vaccinations_raw
+	- daily_vaccinations
+	- daily_vaccinations_per_million
+	- share_doses_used	
+
+[locations/<country>.csv]
+* Use "location" column to find "iso_code" drop "location" column
+
+--> CountryDailyTotals
+	- iso_code
+	- date
+	- vaccine_id (this isnt needed as we track when the country had this avaliable in the "LocationVaccinces" table
+	- source_id
+	- total_vaccinations
+	- people_vaccinated
+	- people_fully_vaccinated
+	
