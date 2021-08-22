@@ -1,0 +1,16 @@
+Convert Location to ISO_CODE
+UPDATE Temp
+SET location = (
+SELECT iso_code
+FROM Locations
+WHERE locations.location = temp.location
+);
+
+
+Convert AgeGroups to age_group_id
+UPDATE Temp
+SET age_group = (
+SELECT age_group_id
+FROM AgeGroups
+WHERE AgeGroups.groups = temp.age_group
+);
