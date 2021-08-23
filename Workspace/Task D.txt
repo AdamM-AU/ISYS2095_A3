@@ -97,3 +97,19 @@ SELECT Locations.location,
  GROUP BY CountryDailyTotals.iso_code,
           date
  ORDER BY DATE ASC;
+ 
+
+* USE DATE TO SELECT COLUMN DATA 
+SELECT date,
+NULL As Australia,
+NULL As [United States],
+NULL As France,
+NULL As Israel
+  FROM (    SELECT CountryDailyTotals.date
+             FROM CountryDailyTotals
+             UNION
+            SELECT CountryDailyTotals.date
+             FROM CountryDailyTotals
+       ) ORDER BY date
+	   
+	   
