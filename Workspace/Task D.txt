@@ -48,13 +48,52 @@ SELECT (SELECT location FROM Locations Where iso_code = CountryVaccinations.iso_
  ORDER BY Country ASC;
  
  4) 
- - List of only unqiue data sources
- SELECT * from datasource GROUP BY source_website;
+> Without Join
+SELECT SourceName AS [Source Name],
+       SUM(TOTAL) AS [Total Vaccines Administered]
+  FROM (
+           SELECT iso_code,
+                  MAX(NULLIF(total_vaccinations, "") ) AS Total,
+                  IFNULL( (
+                              SELECT source_name
+                                FROM DataSource
+                               WHERE iso_code = CountryVaccinations.iso_code
+                          ), "Unknown Source - Data Unavaliable") AS SourceName,
+                  (
+                      SELECT source_website
+                        FROM DataSource
+                       WHERE iso_code = CountryVaccinations.iso_code
+                  )
+                  AS SourceWebsite
+             FROM CountryVaccinations
+            GROUP BY iso_code
+       )
+ GROUP BY SourceWebsite
+ ORDER BY SourceName;
  
- * NEED TO COMBINE the non unqiues
- SELECT  MAX(NULLIF(total_vaccinations, "")) AS Total,
-(SELECT source_name from DataSource WHERE iso_code=CountryVaccinations.iso_code) As Source,
-(SELECT data_source_id from DataSource WHERE iso_code=CountryVaccinations.iso_code) As SourceID
-from CountryVaccinations
-GROUP BY iso_code
- 
+ > With Join
+ SELECT SourceName AS [Source Name],
+       SUM(TOTAL) AS [Total Vaccines Administered]
+  FROM (
+           SELECT CountryVaccinations.iso_code,
+                  MAX(NULLIF(CountryVaccinations.total_vaccinations, "") ) AS Total,
+                  IFNULL(DataSource.source_name, "Unknown Source - Data Unavaliable") AS SourceName,
+                  DataSource.source_website AS SourceWebsite
+             FROM CountryVaccinations
+                  LEFT JOIN
+                  DataSource ON CountryVaccinations.iso_code = DataSource.iso_code
+            GROUP BY CountryVaccinations.iso_code
+       )
+ GROUP BY SourceWebsite
+ ORDER BY SourceName ASC;
+
+5)
+SELECT Locations.location,
+       CountryDailyTotals.date,
+       CountryDailyTotals.people_fully_vaccinated
+  FROM CountryDailyTotals
+  INNER JOIN Locations ON CountryDailyTotals.iso_code = Locations.iso_code
+  WHERE NULLIF(CountryDailyTotals.people_fully_vaccinated, "") IS NOT NULL
+ GROUP BY CountryDailyTotals.iso_code,
+          date
+ ORDER BY DATE ASC;
