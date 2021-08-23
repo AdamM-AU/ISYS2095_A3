@@ -1,0 +1,60 @@
+1)
+SELECT date,
+       daily_vaccinations
+  FROM CountryVaccinations
+ WHERE iso_code = (
+                      SELECT iso_code
+                        FROM Locations
+                       WHERE location = "Afghanistan"
+                  );
+				  
+
+
+
+SELECT (SELECT location FROM Locations Where iso_code = CountryVaccinations.iso_code) as Country,
+       total_vaccinations
+  FROM CountryVaccinations
+  GROUP BY Country
+  ORDER BY Country ASC;
+  
+ 
+ 2)
+ SELECT (
+           SELECT location
+             FROM Locations
+            WHERE iso_code = CountryVaccinations.iso_code
+       )
+       AS Country,
+       MAX(NULLIF(total_vaccinations, "") ) AS [Total Vaccinations Administered]
+  FROM CountryVaccinations
+ WHERE total_vaccinations NOT NULL
+ GROUP BY Country
+ ORDER BY Country ASC;
+ 
+ 3)
+ SELECT (
+           SELECT location
+             FROM Locations
+            WHERE iso_code = LocationVaccines.iso_code
+       )
+       AS Country,
+       (
+           SELECT name
+             FROM Vaccines
+            WHERE vaccine_id = LocationVaccines.vaccine_id
+       )
+       AS Vaccine
+  FROM LocationVaccines
+ ORDER BY Country ASC;
+ 
+ 4) 
+ - List of only unqiue data sources
+ SELECT * from datasource GROUP BY source_website;
+ 
+ * NEED TO COMBINE the non unqiues
+ SELECT  MAX(NULLIF(total_vaccinations, "")) AS Total,
+(SELECT source_name from DataSource WHERE iso_code=CountryVaccinations.iso_code) As Source,
+(SELECT data_source_id from DataSource WHERE iso_code=CountryVaccinations.iso_code) As SourceID
+from CountryVaccinations
+GROUP BY iso_code
+ 
