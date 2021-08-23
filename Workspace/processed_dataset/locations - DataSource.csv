@@ -1,220 +1,220 @@
 ﻿data_source_id,iso_code,source_name,source_website,last_observation_date
-1,AFG,World Health Organization,https://covid19.who.int/,1/08/2021
-2,ALB,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1238036-vaksinime/,5/08/2021
-3,DZA,Ministry of Health,https://www.elkhabar.com/press/article/190912/%D9%87%D8%B0%D8%A7-%D9%87%D9%88-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%84%D9%82%D8%AD%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1/,29/07/2021
-4,AND,Government of Andorra,https://www.govern.ad/covid19_newsletter/,19/07/2021
-5,AGO,World Health Organization,https://covid19.who.int/,3/08/2021
-6,AIA,World Health Organization,https://covid19.who.int/,30/07/2021
-7,ATG,Ministry of Health,https://covid19.gov.ag,4/08/2021
-8,ARG,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina,7/08/2021
-9,ARM,Ministry of Health,https://www.moh.am/#1/4001,1/08/2021
-10,ABW,Government of Aruba,https://www.government.aw,6/08/2021
-11,AUS,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations,7/08/2021
-12,AUT,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/,7/08/2021
-13,AZE,Government of Azerbaijan,https://koronavirusinfo.az,7/08/2021
-14,BHS,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6/08/2021
-15,BHR,Ministry of Health,https://healthalert.gov.bh/en/,7/08/2021
-16,BGD,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php,7/08/2021
-17,BRB,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4439367072761995,3/08/2021
-18,BLR,World Health Organization,https://covid19.who.int/,1/08/2021
-19,BEL,Sciensano,https://epistat.wiv-isp.be/covid/,5/08/2021
-20,BLZ,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2740613612903703/,3/08/2021
-21,BEN,Ministry of Health,https://covid19.who.int/,3/08/2021
-22,BMU,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6/08/2021
-23,BTN,World Health Organization,https://www.facebook.com/MoHBhutan/posts/4401088833286032,5/08/2021
-24,BOL,Ministry of Health,https://www.unidoscontraelcovid.gob.bo/,7/08/2021
-25,BES,World Health Organization,https://covid19.who.int/,9/04/2021
-26,BIH,Public Health Institute,https://srpskainfo.com/imunizacija-jedini-lijek-protiv-korone-kompletno-vakcinisan-svaki-deveti-gradjanin-srpske/,21/07/2021
-27,BWA,Ministry of Health and Wellness,https://twitter.com/BWGovernment/status/1423318738292678658,2/08/2021
-28,BRA,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html,7/08/2021
-29,VGB,World Health Organization,https://covid19.who.int/,30/07/2021
-30,BRN,Ministry of Health,https://www.facebook.com/MOHBrunei/photos/a.742776819184020/4022457007882635/,4/08/2021
-31,BGR,Ministry of Health,https://coronavirus.bg/bg/statistika,7/08/2021
-32,BFA,World Health Organization,https://covid19.who.int/,24/07/2021
-33,KHM,Ministry of Health,https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4272976689408071,7/08/2021
-34,CMR,World Health Organization,https://covid19.who.int/,3/08/2021
-35,CAN,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html,7/08/2021
-36,CPV,World Health Organization,https://covid19.who.int/,3/08/2021
-37,CYM,Cayman Islands Government,https://www.exploregov.ky/coronavirus-statistics,6/08/2021
-38,CAF,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,5/08/2021
-39,TCD,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,5/08/2021
-40,CHL,"Ministerio de Ciencia, TecnologÃ­a, Conocimiento e InnovaciÃ³n",https://www.gob.cl/yomevacuno/,2/08/2021
-41,CHN,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202108/e2e021c2b8d04516a08477ae34499262.shtml,7/08/2021
-42,COL,Ministry of Health,https://docs.google.com/spreadsheets/d/1eblBeozGn1soDGXbOIicwyEDkUqNMzzpJoAKw84TTA4,5/08/2021
-43,COM,World Health Organization,https://covid19.who.int/,3/08/2021
-44,COG,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,29/07/2021
-45,COK,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,20/07/2021
-46,CRI,Costa Rican Social Security Fund,https://www.ccss.sa.cr/web/coronavirus/vacunacion,26/07/2021
-47,CIV,Ministry of Health and Public Hygiene,https://www.facebook.com/mshpcmu/posts/1968042220028129,4/08/2021
-48,HRV,Ministry of Health,https://www.koronavirus.hr,6/08/2021
-49,CUB,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/,5/08/2021
-50,CUW,Government of Curacao,https://bakuna.cw/,7/08/2021
-51,CYP,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5,5/08/2021
-52,CZE,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19,7/08/2021
-53,COD,World Health Organization,https://covid19.who.int/,3/08/2021
-54,DNK,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata,6/08/2021
-55,DJI,World Health Organization,https://www.facebook.com/minister.sante.dj/photos/a.1390385961000334/4351217361583831/,3/08/2021
-56,DMA,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,30/07/2021
-57,DOM,Ministry of Public Health,https://vacunate.gob.do/,6/08/2021
-58,ECU,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid,6/08/2021
-59,EGY,World Health Organization,https://covid19.who.int/,5/08/2021
-60,SLV,Ministry of Health,https://covid19.gob.sv/,5/08/2021
-61,OWID_ENG,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,6/08/2021
-62,GNQ,Ministry of Health,https://guineasalud.org/estadisticas/,4/08/2021
-63,EST,National Health Board,https://opendata.digilugu.ee,7/08/2021
-64,SWZ,Government of Eswatini,https://www.facebook.com/EswatiniGov/photos/pcb.390708122422693/390708052422700/,3/08/2021
-65,ETH,Ministry of Health,https://twitter.com/FMoHealth/status/1422978076707889160,4/08/2021
-66,FRO,Government of the Faeroe Islands,https://corona.fo/api,6/08/2021
-67,FLK,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594,14/04/2021
-68,FJI,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-69,FIN,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L,7/08/2021
-70,FRA,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/,5/08/2021
-71,PYF,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-72,GAB,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,5/08/2021
-73,GMB,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,15/07/2021
-74,GEO,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/,7/08/2021
-75,DEU,Robert Koch Institut,https://impfdashboard.de/,6/08/2021
-76,GHA,World Health Organization,https://covid19.who.int/,19/07/2021
-77,GIB,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1421414291467603972,30/07/2021
-78,GRC,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/,7/08/2021
-79,GRL,Government of Greenland,https://corona.nun.gl/emner/statistik/antal_vaccinerede,6/08/2021
-80,GRD,World Health Organization,https://covid19.who.int/,30/07/2021
-81,GTM,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98,6/08/2021
-82,GGY,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats,6/08/2021
-83,GIN,National Health Security Agency,https://twitter.com/anss_guinee/status/1422474293280190478,1/08/2021
-84,GNB,World Health Organization,https://covid19.who.int/,19/07/2021
-85,GUY,Ministry of Health,https://www.facebook.com/mohguyana/posts/2659280077708855,4/08/2021
-86,HTI,Pan American Health Organization,https://www.facebook.com/msppht/posts/1801531640032906,5/08/2021
-87,HND,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6/08/2021
-88,HKG,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard,7/08/2021
-89,HUN,Government of Hungary,https://koronavirus.gov.hu//cikkek/5-millio-642-ezer-beoltott-52-az-uj-fertozott-elhunyt-egy-beteg,5/08/2021
-90,ISL,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni,6/08/2021
-91,IND,Government of India,https://www.mohfw.gov.in/,7/08/2021
-92,IDN,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines,7/08/2021
-93,IRN,World Health Organization,https://covid19.who.int/,2/08/2021
-94,IRQ,World Health Organization,https://reliefweb.int/sites/reliefweb.int/files/resources/iraq-covid-19-situation-report-05_11-7-21.pdf,11/07/2021
-95,IRL,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/,7/08/2021
-96,IMN,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,3/08/2021
-97,ISR,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general,7/08/2021
-98,ITA,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv,7/08/2021
-99,JAM,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6/08/2021
-100,JPN,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,5/08/2021
-101,JEY,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true,1/08/2021
-102,JOR,Government of Jordan,https://corona.moh.gov.jo/ar,1/08/2021
-103,KAZ,Government of Kazakhstan,https://www.coronavirus2020.kz/,7/08/2021
-104,KEN,Ministry of Health,https://twitter.com/MOH_Kenya/status/1422915323464912908,4/08/2021
-105,OWID_KOS,Ministry of Health,https://www.facebook.com/Ministria.Shendetesise.RKS/posts/2056826841141559,5/08/2021
-106,KWT,Ministry of Health,https://twitter.com/KUWAIT_MOH/status/1411777117713543173,3/07/2021
-107,KGZ,Ministry of Health,https://vc.emed.gov.kg/,7/08/2021
-108,LAO,World Health Organization,https://https://www.facebook.com/CCEH.MoH.Lao/posts/4492235887467737,6/08/2021
-109,LVA,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas,6/08/2021
-110,LBN,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine,7/08/2021
-111,LSO,World Health Organization,https://covid19.who.int/,26/07/2021
-112,LBR,World Health Organization,https://covid19.who.int/,12/07/2021
-113,LBY,World Health Organization,https://covid19.who.int/,5/08/2021
-114,LIE,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=FL,5/08/2021
-115,LTU,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/,7/08/2021
-116,LUX,Government of Luxembourg,https://covid19.public.lu/fr.html,6/08/2021
-117,MAC,Government of Macao,https://www.gov.mo/zh-hant/news/673405/,5/08/2021
-118,MDG,World Health Organization,https://covid19.who.int/,28/06/2021
-119,MWI,Ministry of Health,https://twitter.com/health_malawi/status/1422959329448239113,4/08/2021
-120,MYS,Government of Malaysia,https://github.com/CITF-Malaysia/citf-public,7/08/2021
-121,MDV,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1422975906197348358,3/08/2021
-122,MLI,World Health Organization,https://covid19.who.int/,3/08/2021
-123,MLT,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases,7/08/2021
-124,MRT,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,5/08/2021
-125,MUS,World Health Organization,https://covid19.who.int/,3/08/2021
-126,MEX,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/660457/2021.08.07_17h00_ComunicadoTecnicoDiario_Covid19.pdf,6/08/2021
-127,MDA,Ministry of Health,https://vaccinare.gov.md/,7/08/2021
-128,MCO,National Council,https://www.gouv.mc//Action-Gouvernementale/Coronavirus-Covid-19/Actualites/Covid-19-12-nouveaux-cas-positifs-et-20-guerisons-ce-vendredi-6-aout,6/08/2021
-129,MNG,Ministry of Health via ikon.mn,https://ikon.mn/,7/08/2021
-130,MNE,Government of Montenegro,https://www.covidodgovor.me/,7/08/2021
-131,MSR,World Health Organization,https://covid19.who.int/,30/07/2021
-132,MAR,Ministry of Health,http://www.covidmaroc.ma/pages/Accueilfr.aspx,7/08/2021
-133,MOZ,World Health Organization,https://covid19.who.int/,3/08/2021
-134,MMR,World Health Organization,https://www.nytimes.com/2021/07/01/world/asia/covid-myanmar-coup.html,1/07/2021
-135,NAM,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/792383214768017/,4/08/2021
-136,NRU,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,27/07/2021
-137,NPL,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/610e684798d46_SitRep545_COVID-19_07-08-2021_EN.pdf,7/08/2021
-138,NLD,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,7/08/2021
-139,NCL,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-140,NZL,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data,3/08/2021
-141,NIC,World Health Organization,https://covid19.who.int/,16/07/2021
-142,NER,World Health Organization,https://covid19.who.int/,5/07/2021
-143,NGA,World Health Organization,https://covid19.who.int/,12/07/2021
-144,NIU,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,6/07/2021
-145,MKD,Government of North Macedonia,https://twitter.com/ZdravstvoMK/status/1423204997114773506,5/08/2021
-146,OWID_CYN,Ministry of Health,https://asi.saglik.gov.ct.tr/,27/06/2021
-147,OWID_NIR,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,6/08/2021
-148,NOR,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/,5/08/2021
-149,OMN,World Health Organization,https://covid19.who.int/,25/07/2021
-150,PAK,National Command and Operation Centre,https://ncoc.gov.pk/covid-vaccination-en.php,7/08/2021
-151,PSE,Ministry of Health,https://www.facebook.com/mohps/posts/4038659169593264,5/08/2021
-152,PAN,Ministry of Health,https://twitter.com/MINSAPma/status/1424188377969176576,7/08/2021
-153,PNG,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-154,PRY,Government of Paraguay,https://www.vacunate.gov.py/index-listado-vacunados.html,25/07/2021
-155,PER,Ministry of Health via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5/08/2021
-156,PHL,Department of Health via ABS-CBN Investigative and Research Group,https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker,5/08/2021
-157,PCN,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-158,POL,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19,7/08/2021
-159,PRT,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data,7/08/2021
-160,QAT,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx,7/08/2021
-161,ROU,Government of Romania via datelazi.ro,https://datelazi.ro/,6/08/2021
-162,RUS,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats,7/08/2021
-163,RWA,World Health Organization,https://covid19.who.int/,3/08/2021
-164,SHN,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/,5/05/2021
-165,KNA,Government of Saint Kitts and Nevis,https://www.facebook.com/StKittsHPU/photos/a.158729094910938/965348750915631/,5/08/2021
-166,LCA,Ministry of Health,https://www.covid19response.lc/,7/08/2021
-167,VCT,Ministry of Health,https://www.facebook.com/SVGHEALTH/posts/4722715407788845,4/08/2021
-168,WSM,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-169,SMR,Social Security Institute,https://vaccinocovid.iss.sm/,5/08/2021
-170,STP,World Health Organization,https://covid19.who.int/,3/08/2021
-171,SAU,Saudi Health Council,https://covid19.moh.gov.sa/,7/08/2021
-172,OWID_SCT,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,6/08/2021
-173,SEN,World Health Organization,https://covid19.who.int/,3/08/2021
-174,SRB,Government of Serbia,https://vakcinacija.gov.rs/,7/08/2021
-175,SYC,Extended Programme for Immunisation,https://www.youtube.com/watch?v=glblVPyj1-w&ab_channel=SBC,22/07/2021
-176,SLE,World Health Organization,https://covid19.who.int/,5/07/2021
-177,SGP,Ministry of Health,https://www.moh.gov.sg/covid-19/vaccination,6/08/2021
-178,SXM,World Health Organization,https://covid19.who.int/,30/07/2021
-179,SVK,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data,6/08/2021
-180,SVN,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/en/stats,7/08/2021
-181,SLB,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-182,SOM,World Health Organization,https://covid19.who.int/,2/08/2021
-183,ZAF,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/,5/08/2021
-184,KOR,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/,7/08/2021
-185,SSD,World Health Organization,https://covid19.who.int/,19/07/2021
-186,ESP,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210806.ods,5/08/2021
-187,LKA,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-08_10_21.pdf,7/08/2021
-188,SDN,World Health Organization,https://covid19.who.int/,1/08/2021
-189,SUR,Government of Suriname,https://laatjevaccineren.sr/,7/08/2021
-190,SWE,Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/,6/08/2021
-191,CHE,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,5/08/2021
-192,SYR,World Health Organization,https://covid19.who.int/,9/07/2021
-193,TWN,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,6/08/2021
-194,TJK,World Health Organization,https://covid19.who.int/,1/08/2021
-195,THA,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-06.pdf,5/08/2021
-196,TLS,World Health Organization,https://covid19.who.int/,3/08/2021
-197,TGO,World Health Organization,https://covid19.who.int/,3/08/2021
-198,TON,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-199,TTO,Ministry of Health,https://experience.arcgis.com/experience/59226cacd2b441c7a939dca13f832112/,7/08/2021
-200,TUN,World Health Organization,https://www.facebook.com/santetunisie.rns.tn/posts/4373558156016588,4/08/2021
-201,TUR,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/,7/08/2021
-202,TKM,World Health Organization,https://covid19.who.int/,4/04/2021
-203,TCA,World Health Organization,https://covid19.who.int/,23/07/2021
-204,TUV,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,15/06/2021
-205,UGA,Ministry of Health,https://www.health.go.ug/covid/,5/08/2021
-206,UKR,Ministry of Health,https://vaccination.covid19.gov.ua/,7/08/2021
-207,ARE,National Emergency Crisis and Disaster Management Authority,https://fcsc.gov.ae/en-us/Pages/Covid19/UAE-Covid-19-Updates.aspx,7/08/2021
-208,GBR,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,6/08/2021
-209,USA,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data,7/08/2021
-210,URY,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/,7/08/2021
-211,UZB,Government of Uzbekistan,https://tashkenttimes.uz/national/7317-25-uzbek-adults-get-at-least-one-dose-of-covid-19-vaccine-health-ministry,2/08/2021
-212,VUT,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,27/07/2021
-213,VEN,Pan American Health Organization,http://www.correodelorinoco.gob.ve/ministro-de-salud-casi-3-millones-de-venezolanos-han-recibido-primera-dosis-de-vacuna-contra-covid-19/,12/07/2021
-214,VNM,Government of Vietnam,https://moh.gov.vn/tin-tong-hop/-/asset_publisher/k206Q9qkZOqn/content/ban-tin-dich-covid-19-sang-8-8-co-4-941-ca-mac-covid-19-gan-8-9-trieu-lieu-vaccine-a-uoc-tiem-chung,7/08/2021
-215,OWID_WLS,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,5/08/2021
-216,WLF,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2/08/2021
-217,YEM,World Health Organization,https://covid19.who.int/,27/07/2021
-218,ZMB,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63,7/08/2021
-219,ZWE,Ministry of Health,https://twitter.com/MoHCCZim/status/1423037345402695681,4/08/2021
+1,AFG,World Health Organization,https://covid19.who.int/,2021/08/01
+2,ALB,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1238036-vaksinime/,2021/08/05
+3,DZA,Ministry of Health,https://www.elkhabar.com/press/article/190912/%D9%87%D8%B0%D8%A7-%D9%87%D9%88-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%84%D9%82%D8%AD%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1/,2021/07/29
+4,AND,Government of Andorra,https://www.govern.ad/covid19_newsletter/,2021/07/19
+5,AGO,World Health Organization,https://covid19.who.int/,2021/08/03
+6,AIA,World Health Organization,https://covid19.who.int/,2021/07/30
+7,ATG,Ministry of Health,https://covid19.gov.ag,2021/08/04
+8,ARG,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina,2021/08/07
+9,ARM,Ministry of Health,https://www.moh.am/#1/4001,2021/08/01
+10,ABW,Government of Aruba,https://www.government.aw,2021/08/06
+11,AUS,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations,2021/08/07
+12,AUT,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/,2021/08/07
+13,AZE,Government of Azerbaijan,https://koronavirusinfo.az,2021/08/07
+14,BHS,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,2021/08/06
+15,BHR,Ministry of Health,https://healthalert.gov.bh/en/,2021/08/07
+16,BGD,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php,2021/08/07
+17,BRB,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4439367072761995,2021/08/03
+18,BLR,World Health Organization,https://covid19.who.int/,2021/08/01
+19,BEL,Sciensano,https://epistat.wiv-isp.be/covid/,2021/08/05
+20,BLZ,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2740613612903703/,2021/08/03
+21,BEN,Ministry of Health,https://covid19.who.int/,2021/08/03
+22,BMU,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,2021/08/06
+23,BTN,World Health Organization,https://www.facebook.com/MoHBhutan/posts/4401088833286032,2021/08/05
+24,BOL,Ministry of Health,https://www.unidoscontraelcovid.gob.bo/,2021/08/07
+25,BES,World Health Organization,https://covid19.who.int/,2021/04/09
+26,BIH,Public Health Institute,https://srpskainfo.com/imunizacija-jedini-lijek-protiv-korone-kompletno-vakcinisan-svaki-deveti-gradjanin-srpske/,2021/07/21
+27,BWA,Ministry of Health and Wellness,https://twitter.com/BWGovernment/status/1423318738292678658,2021/08/02
+28,BRA,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html,2021/08/07
+29,VGB,World Health Organization,https://covid19.who.int/,2021/07/30
+30,BRN,Ministry of Health,https://www.facebook.com/MOHBrunei/photos/a.742776819184020/4022457007882635/,2021/08/04
+31,BGR,Ministry of Health,https://coronavirus.bg/bg/statistika,2021/08/07
+32,BFA,World Health Organization,https://covid19.who.int/,2021/07/24
+33,KHM,Ministry of Health,https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4272976689408071,2021/08/07
+34,CMR,World Health Organization,https://covid19.who.int/,2021/08/03
+35,CAN,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html,2021/08/07
+36,CPV,World Health Organization,https://covid19.who.int/,2021/08/03
+37,CYM,Cayman Islands Government,https://www.exploregov.ky/coronavirus-statistics,2021/08/06
+38,CAF,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/08/05
+39,TCD,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/08/05
+40,CHL,"Ministerio de Ciencia, TecnologÃ­a, Conocimiento e InnovaciÃ³n",https://www.gob.cl/yomevacuno/,2021/08/02
+41,CHN,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202108/e2e021c2b8d04516a08477ae34499262.shtml,2021/08/07
+42,COL,Ministry of Health,https://docs.google.com/spreadsheets/d/1eblBeozGn1soDGXbOIicwyEDkUqNMzzpJoAKw84TTA4,2021/08/05
+43,COM,World Health Organization,https://covid19.who.int/,2021/08/03
+44,COG,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/07/29
+45,COK,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/07/20
+46,CRI,Costa Rican Social Security Fund,https://www.ccss.sa.cr/web/coronavirus/vacunacion,2021/07/26
+47,CIV,Ministry of Health and Public Hygiene,https://www.facebook.com/mshpcmu/posts/1968042220028129,2021/08/04
+48,HRV,Ministry of Health,https://www.koronavirus.hr,2021/08/06
+49,CUB,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/,2021/08/05
+50,CUW,Government of Curacao,https://bakuna.cw/,2021/08/07
+51,CYP,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5,2021/08/05
+52,CZE,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19,2021/08/07
+53,COD,World Health Organization,https://covid19.who.int/,2021/08/03
+54,DNK,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata,2021/08/06
+55,DJI,World Health Organization,https://www.facebook.com/minister.sante.dj/photos/a.1390385961000334/4351217361583831/,2021/08/03
+56,DMA,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,2021/07/30
+57,DOM,Ministry of Public Health,https://vacunate.gob.do/,2021/08/06
+58,ECU,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid,2021/08/06
+59,EGY,World Health Organization,https://covid19.who.int/,2021/08/05
+60,SLV,Ministry of Health,https://covid19.gob.sv/,2021/08/05
+61,OWID_ENG,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,2021/08/06
+62,GNQ,Ministry of Health,https://guineasalud.org/estadisticas/,2021/08/04
+63,EST,National Health Board,https://opendata.digilugu.ee,2021/08/07
+64,SWZ,Government of Eswatini,https://www.facebook.com/EswatiniGov/photos/pcb.390708122422693/390708052422700/,2021/08/03
+65,ETH,Ministry of Health,https://twitter.com/FMoHealth/status/1422978076707889160,2021/08/04
+66,FRO,Government of the Faeroe Islands,https://corona.fo/api,2021/08/06
+67,FLK,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594,2021/04/14
+68,FJI,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+69,FIN,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L,2021/08/07
+70,FRA,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/,2021/08/05
+71,PYF,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+72,GAB,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/08/05
+73,GMB,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/07/15
+74,GEO,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/,2021/08/07
+75,DEU,Robert Koch Institut,https://impfdashboard.de/,2021/08/06
+76,GHA,World Health Organization,https://covid19.who.int/,2021/07/19
+77,GIB,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1421414291467603972,2021/07/30
+78,GRC,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/,2021/08/07
+79,GRL,Government of Greenland,https://corona.nun.gl/emner/statistik/antal_vaccinerede,2021/08/06
+80,GRD,World Health Organization,https://covid19.who.int/,2021/07/30
+81,GTM,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98,2021/08/06
+82,GGY,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats,2021/08/06
+83,GIN,National Health Security Agency,https://twitter.com/anss_guinee/status/1422474293280190478,2021/08/01
+84,GNB,World Health Organization,https://covid19.who.int/,2021/07/19
+85,GUY,Ministry of Health,https://www.facebook.com/mohguyana/posts/2659280077708855,2021/08/04
+86,HTI,Pan American Health Organization,https://www.facebook.com/msppht/posts/1801531640032906,2021/08/05
+87,HND,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,2021/08/06
+88,HKG,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard,2021/08/07
+89,HUN,Government of Hungary,https://koronavirus.gov.hu//cikkek/5-millio-642-ezer-beoltott-52-az-uj-fertozott-elhunyt-egy-beteg,2021/08/05
+90,ISL,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni,2021/08/06
+91,IND,Government of India,https://www.mohfw.gov.in/,2021/08/07
+92,IDN,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines,2021/08/07
+93,IRN,World Health Organization,https://covid19.who.int/,2021/08/02
+94,IRQ,World Health Organization,https://reliefweb.int/sites/reliefweb.int/files/resources/iraq-covid-19-situation-report-05_11-7-21.pdf,2021/07/11
+95,IRL,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/,2021/08/07
+96,IMN,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,2021/08/03
+97,ISR,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general,2021/08/07
+98,ITA,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv,2021/08/07
+99,JAM,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,2021/08/06
+100,JPN,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2021/08/05
+101,JEY,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true,2021/08/01
+102,JOR,Government of Jordan,https://corona.moh.gov.jo/ar,2021/08/01
+103,KAZ,Government of Kazakhstan,https://www.coronavirus2020.kz/,2021/08/07
+104,KEN,Ministry of Health,https://twitter.com/MOH_Kenya/status/1422915323464912908,2021/08/04
+105,OWID_KOS,Ministry of Health,https://www.facebook.com/Ministria.Shendetesise.RKS/posts/2056826841141559,2021/08/05
+106,KWT,Ministry of Health,https://twitter.com/KUWAIT_MOH/status/1411777117713543173,2021/07/03
+107,KGZ,Ministry of Health,https://vc.emed.gov.kg/,2021/08/07
+108,LAO,World Health Organization,https://https://www.facebook.com/CCEH.MoH.Lao/posts/4492235887467737,2021/08/06
+109,LVA,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas,2021/08/06
+110,LBN,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine,2021/08/07
+111,LSO,World Health Organization,https://covid19.who.int/,2021/07/26
+112,LBR,World Health Organization,https://covid19.who.int/,2021/07/12
+113,LBY,World Health Organization,https://covid19.who.int/,2021/08/05
+114,LIE,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=FL,2021/08/05
+115,LTU,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/,2021/08/07
+116,LUX,Government of Luxembourg,https://covid19.public.lu/fr.html,2021/08/06
+117,MAC,Government of Macao,https://www.gov.mo/zh-hant/news/673405/,2021/08/05
+118,MDG,World Health Organization,https://covid19.who.int/,2021/06/28
+119,MWI,Ministry of Health,https://twitter.com/health_malawi/status/1422959329448239113,2021/08/04
+120,MYS,Government of Malaysia,https://github.com/CITF-Malaysia/citf-public,2021/08/07
+121,MDV,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1422975906197348358,2021/08/03
+122,MLI,World Health Organization,https://covid19.who.int/,2021/08/03
+123,MLT,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases,2021/08/07
+124,MRT,Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/,2021/08/05
+125,MUS,World Health Organization,https://covid19.who.int/,2021/08/03
+126,MEX,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/660457/2021.08.07_17h00_ComunicadoTecnicoDiario_Covid19.pdf,2021/08/06
+127,MDA,Ministry of Health,https://vaccinare.gov.md/,2021/08/07
+128,MCO,National Council,https://www.gouv.mc//Action-Gouvernementale/Coronavirus-Covid-19/Actualites/Covid-19-12-nouveaux-cas-positifs-et-20-guerisons-ce-vendredi-6-aout,2021/08/06
+129,MNG,Ministry of Health via ikon.mn,https://ikon.mn/,2021/08/07
+130,MNE,Government of Montenegro,https://www.covidodgovor.me/,2021/08/07
+131,MSR,World Health Organization,https://covid19.who.int/,2021/07/30
+132,MAR,Ministry of Health,http://www.covidmaroc.ma/pages/Accueilfr.aspx,2021/08/07
+133,MOZ,World Health Organization,https://covid19.who.int/,2021/08/03
+134,MMR,World Health Organization,https://www.nytimes.com/2021/07/01/world/asia/covid-myanmar-coup.html,2021/07/01
+135,NAM,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/792383214768017/,2021/08/04
+136,NRU,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/07/27
+137,NPL,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/610e684798d46_SitRep545_COVID-19_07-08-2021_EN.pdf,2021/08/07
+138,NLD,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,2021/08/07
+139,NCL,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+140,NZL,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data,2021/08/03
+141,NIC,World Health Organization,https://covid19.who.int/,2021/07/16
+142,NER,World Health Organization,https://covid19.who.int/,2021/07/05
+143,NGA,World Health Organization,https://covid19.who.int/,2021/07/12
+144,NIU,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/07/06
+145,MKD,Government of North Macedonia,https://twitter.com/ZdravstvoMK/status/1423204997114773506,2021/08/05
+146,OWID_CYN,Ministry of Health,https://asi.saglik.gov.ct.tr/,2021/06/27
+147,OWID_NIR,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,2021/08/06
+148,NOR,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/,2021/08/05
+149,OMN,World Health Organization,https://covid19.who.int/,2021/07/25
+150,PAK,National Command and Operation Centre,https://ncoc.gov.pk/covid-vaccination-en.php,2021/08/07
+151,PSE,Ministry of Health,https://www.facebook.com/mohps/posts/4038659169593264,2021/08/05
+152,PAN,Ministry of Health,https://twitter.com/MINSAPma/status/1424188377969176576,2021/08/07
+153,PNG,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+154,PRY,Government of Paraguay,https://www.vacunate.gov.py/index-listado-vacunados.html,2021/07/25
+155,PER,Ministry of Health via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2021/08/05
+156,PHL,Department of Health via ABS-CBN Investigative and Research Group,https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker,2021/08/05
+157,PCN,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+158,POL,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19,2021/08/07
+159,PRT,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data,2021/08/07
+160,QAT,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx,2021/08/07
+161,ROU,Government of Romania via datelazi.ro,https://datelazi.ro/,2021/08/06
+162,RUS,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats,2021/08/07
+163,RWA,World Health Organization,https://covid19.who.int/,2021/08/03
+164,SHN,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/,2021/05/05
+165,KNA,Government of Saint Kitts and Nevis,https://www.facebook.com/StKittsHPU/photos/a.158729094910938/965348750915631/,2021/08/05
+166,LCA,Ministry of Health,https://www.covid19response.lc/,2021/08/07
+167,VCT,Ministry of Health,https://www.facebook.com/SVGHEALTH/posts/4722715407788845,2021/08/04
+168,WSM,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+169,SMR,Social Security Institute,https://vaccinocovid.iss.sm/,2021/08/05
+170,STP,World Health Organization,https://covid19.who.int/,2021/08/03
+171,SAU,Saudi Health Council,https://covid19.moh.gov.sa/,2021/08/07
+172,OWID_SCT,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,2021/08/06
+173,SEN,World Health Organization,https://covid19.who.int/,2021/08/03
+174,SRB,Government of Serbia,https://vakcinacija.gov.rs/,2021/08/07
+175,SYC,Extended Programme for Immunisation,https://www.youtube.com/watch?v=glblVPyj1-w&ab_channel=SBC,2021/07/22
+176,SLE,World Health Organization,https://covid19.who.int/,2021/07/05
+177,SGP,Ministry of Health,https://www.moh.gov.sg/covid-19/vaccination,2021/08/06
+178,SXM,World Health Organization,https://covid19.who.int/,2021/07/30
+179,SVK,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data,2021/08/06
+180,SVN,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/en/stats,2021/08/07
+181,SLB,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+182,SOM,World Health Organization,https://covid19.who.int/,2021/08/02
+183,ZAF,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/,2021/08/05
+184,KOR,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/,2021/08/07
+185,SSD,World Health Organization,https://covid19.who.int/,2021/07/19
+186,ESP,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210806.ods,2021/08/05
+187,LKA,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-08_10_21.pdf,2021/08/07
+188,SDN,World Health Organization,https://covid19.who.int/,2021/08/01
+189,SUR,Government of Suriname,https://laatjevaccineren.sr/,2021/08/07
+190,SWE,Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/,2021/08/06
+191,CHE,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,2021/08/05
+192,SYR,World Health Organization,https://covid19.who.int/,2021/07/09
+193,TWN,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,2021/08/06
+194,TJK,World Health Organization,https://covid19.who.int/,2021/08/01
+195,THA,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-06.pdf,2021/08/05
+196,TLS,World Health Organization,https://covid19.who.int/,2021/08/03
+197,TGO,World Health Organization,https://covid19.who.int/,2021/08/03
+198,TON,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+199,TTO,Ministry of Health,https://experience.arcgis.com/experience/59226cacd2b441c7a939dca13f832112/,2021/08/07
+200,TUN,World Health Organization,https://www.facebook.com/santetunisie.rns.tn/posts/4373558156016588,2021/08/04
+201,TUR,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/,2021/08/07
+202,TKM,World Health Organization,https://covid19.who.int/,2021/04/04
+203,TCA,World Health Organization,https://covid19.who.int/,2021/07/23
+204,TUV,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/06/15
+205,UGA,Ministry of Health,https://www.health.go.ug/covid/,2021/08/05
+206,UKR,Ministry of Health,https://vaccination.covid19.gov.ua/,2021/08/07
+207,ARE,National Emergency Crisis and Disaster Management Authority,https://fcsc.gov.ae/en-us/Pages/Covid19/UAE-Covid-19-Updates.aspx,2021/08/07
+208,GBR,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,2021/08/06
+209,USA,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data,2021/08/07
+210,URY,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/,2021/08/07
+211,UZB,Government of Uzbekistan,https://tashkenttimes.uz/national/7317-25-uzbek-adults-get-at-least-one-dose-of-covid-19-vaccine-health-ministry,2021/08/02
+212,VUT,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/07/27
+213,VEN,Pan American Health Organization,http://www.correodelorinoco.gob.ve/ministro-de-salud-casi-3-millones-de-venezolanos-han-recibido-primera-dosis-de-vacuna-contra-covid-19/,2021/07/12
+214,VNM,Government of Vietnam,https://moh.gov.vn/tin-tong-hop/-/asset_publisher/k206Q9qkZOqn/content/ban-tin-dich-covid-19-sang-8-8-co-4-941-ca-mac-covid-19-gan-8-9-trieu-lieu-vaccine-a-uoc-tiem-chung,2021/08/07
+215,OWID_WLS,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,2021/08/05
+216,WLF,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2021/08/02
+217,YEM,World Health Organization,https://covid19.who.int/,2021/07/27
+218,ZMB,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63,2021/08/07
+219,ZWE,Ministry of Health,https://twitter.com/MoHCCZim/status/1423037345402695681,2021/08/04
