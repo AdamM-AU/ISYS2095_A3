@@ -8,14 +8,6 @@ SELECT date,
                        WHERE location = "Afghanistan"
                   );
 				  
-
-
-
-SELECT (SELECT location FROM Locations Where iso_code = CountryVaccinations.iso_code) as Country,
-       total_vaccinations
-  FROM CountryVaccinations
-  GROUP BY Country
-  ORDER BY Country ASC;
   
  
  2)
@@ -88,28 +80,13 @@ SELECT SourceName AS [Source Name],
  ORDER BY SourceName ASC;
 
 5)
-SELECT Locations.location,
-       CountryDailyTotals.date,
-       CountryDailyTotals.people_fully_vaccinated
+SELECT CountryDailyTotals.date,
+       MAX(CASE WHEN CountryDailyTotals.iso_code = 'AUS' THEN CountryDailyTotals.people_fully_vaccinated END) AS Australia,
+       MAX(CASE WHEN CountryDailyTotals.iso_code = 'USA' THEN CountryDailyTotals.people_fully_vaccinated END) AS [United States],
+       MAX(CASE WHEN CountryDailyTotals.iso_code = 'FRA' THEN CountryDailyTotals.people_fully_vaccinated END) AS France,
+       MAX(CASE WHEN CountryDailyTotals.iso_code = 'ISR' THEN CountryDailyTotals.people_fully_vaccinated END) AS Israel
   FROM CountryDailyTotals
-  INNER JOIN Locations ON CountryDailyTotals.iso_code = Locations.iso_code
-  WHERE NULLIF(CountryDailyTotals.people_fully_vaccinated, "") IS NOT NULL
- GROUP BY CountryDailyTotals.iso_code,
-          date
- ORDER BY DATE ASC;
- 
+ GROUP BY CountryDailyTotals.date
+ ORDER BY CountryDailyTotals.date DESC;
 
-* USE DATE TO SELECT COLUMN DATA 
-SELECT date,
-NULL As Australia,
-NULL As [United States],
-NULL As France,
-NULL As Israel
-  FROM (    SELECT CountryDailyTotals.date
-             FROM CountryDailyTotals
-             UNION
-            SELECT CountryDailyTotals.date
-             FROM CountryDailyTotals
-       ) ORDER BY date
-	   
 	   

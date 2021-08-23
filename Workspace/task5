@@ -1,0 +1,14 @@
+SELECT date,
+GROUP_CONCAT('',a) As Australia,
+GROUP_CONCAT('',b) As [United States],
+GROUP_CONCAT('',c) As France,
+NULL As Israel
+  FROM 
+( SELECT date, 
+  CASE WHEN iso_code = 'AUS' THEN people_fully_vaccinated ELSE NULL END As a,
+  CASE WHEN iso_code = 'USA' THEN people_fully_vaccinated ELSE NULL END As b,
+  CASE WHEN iso_code = 'FRA' THEN people_fully_vaccinated ELSE NULL END As c
+  FROM CountryDailyTotals
+) 
+GROUP BY date
+ORDER BY date
