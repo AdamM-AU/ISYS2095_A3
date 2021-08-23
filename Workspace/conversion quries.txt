@@ -14,3 +14,39 @@ SELECT age_group_id
 FROM AgeGroups
 WHERE AgeGroups.groups = temp.age_group
 );
+
+Convert Vaccine names to vaccine_id
+UPDATE Temp
+SET vaccine = (
+SELECT vaccine_id
+FROM Vaccines
+WHERE Vaccines.name = temp.vaccine
+);
+
+
+Populate missing iso_codes (some custom ones are used)
+INSERT INTO Locations (iso_code, location)
+SELECT iso_code, location FROM Temp WHERE Temp.iso_code NOT IN (SELECT iso_code from Locations) Group by iso_code
+
+
+Populate LocationVaccines --> date_avaliable using CountryVaccByManufacturer
+UPDATE LocationVaccines
+SET date_avaliable = (
+SELECT date
+  FROM CountryVaccByManufacturer
+ WHERE iso_code = LocationVaccines.iso_code AND 
+       vaccine_id = LocationVaccines.vaccine_id
+ ORDER BY date(date) 
+ LIMIT 1
+)
+
+Populate LocationVaccines --> date_avaliable using CountryDailyTotals
+UPDATE LocationVaccines
+SET date_avaliable = (
+SELECT date
+  FROM CountryDailyTotals
+ WHERE iso_code = LocationVaccines.iso_code AND 
+       vaccine_id = LocationVaccines.vaccine_id
+ ORDER BY date(date) 
+ LIMIT 1
+) WHERE date_avaliable IS NULL
